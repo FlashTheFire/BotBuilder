@@ -31,7 +31,7 @@ Follow these steps to install and set up BotBuilder:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/FlashTheFire/BotBuilder
     cd BotBuilder
     ```
 
